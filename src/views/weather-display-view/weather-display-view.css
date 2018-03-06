@@ -1,0 +1,13 @@
+.weather-display-view__title {
+    font-size: 24px;
+
+    position: relative;
+
+    margin: 10px 0 17px;
+}
+
+.weather-display-view__icon {
+    position: absolute;
+    top: 13px;
+    transform: translateY(-50%);
+}
